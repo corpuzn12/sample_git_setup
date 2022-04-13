@@ -1,0 +1,8 @@
+README.md
+setup.py
+nicole_utils.egg-info/PKG-INFO
+nicole_utils.egg-info/SOURCES.txt
+nicole_utils.egg-info/dependency_links.txt
+nicole_utils.egg-info/requires.txt
+nicole_utils.egg-info/top_level.txt
+sample_git_setup/__Init__.py
